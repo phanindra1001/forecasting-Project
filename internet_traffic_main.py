@@ -9,6 +9,7 @@ import pandas as pd
 import streamlit as st 
 from statsmodels.tsa.arima_model import ARIMA
 from pickle import load
+import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
