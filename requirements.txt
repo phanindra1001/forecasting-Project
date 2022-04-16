@@ -3,3 +3,4 @@ streamlit==1.7.0
 pandas==1.2.3
 scikit-learn
 statsmodels==0.12.2
+click==7.1.2
