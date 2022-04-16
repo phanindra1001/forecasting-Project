@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
-st.title('Internet Traffic Forecasting')
+st.title('Internet Traffic Forecasting App')
 
 st.sidebar.header('User Input')
 def getNum(inp_str):
